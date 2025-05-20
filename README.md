@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Leonardo Gonçalves and I'm a software engineer, home chef and nerd from Rio de Janeiro, Brazil</p>
 
 ###
 

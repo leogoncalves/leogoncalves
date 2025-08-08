@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Leonardo Gonçalves and I'm a software engineer, home chef and nerd from Rio de Janeiro, Brazil</p>
+<p align="left">My name is Leonardo Gonçalves, a software engineer from Rio de Janeiro, Brasil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Wriiting applications since 2014<br>📚 I'm currently learning about Java and Event Drive Architecture<br>🎯 Goals: finish my reading list (books, mangas and HQ's)<br>🎲 Fun fact: I am an excellent home chef and can share some recipes</p>
+<p align="left">✨ Writing applications since 2014<br>📚 I'm currently learning about Java and Event Drive Architecture<br>🎯 Goals: finish my reading list (tech and fantasy books, mangas and HQ's)<br>
 
 ###
 
